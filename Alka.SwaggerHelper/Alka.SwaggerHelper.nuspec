@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Alka.SwaggerHelper</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.githubusercontent.com/alkaforsikring/Alka.SwaggerHelper/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/alkaforsikring/Alka.SwaggerHelper</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/alkaforsikring/Alka.SwaggerHelper/pr/init/alka_logo.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Helper classes for swagger/swashbuckle</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>swagger swashbuckle</tags>
+  </metadata>
+  <files>
+      <file src="**\*.cs" target="src" />
+  </files>
+</package>
