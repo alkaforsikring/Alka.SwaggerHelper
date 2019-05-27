@@ -1,0 +1,23 @@
+version: 1.0.{build}
+image: Visual Studio 2017
+   
+install:
+    - nuget restore
+    
+build:
+  project: SwaggerHelper.sln
+ 
+  publish_nuget: true             # package projects with .nuspec files and push to artifacts
+  publish_nuget_symbols: true     # generate and publish NuGet symbol packages
+
+  verbosity: minimal # or "detailed"
+
+deploy:
+    provider: NuGet
+    api_key:
+      secure: YMXa6GCAQHQtiYp9s3jYBH8dP1SBtckMuWWVCeCQrhOW9LlGEboH0daBhto83BuZ
+    skip_symbols: false
+    artifact: /.*\.nupkg/
+    
+    on:
+      branch: master
