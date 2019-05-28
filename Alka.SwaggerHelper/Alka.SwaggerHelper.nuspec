@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <licenseUrl>https://raw.githubusercontent.com/alkaforsikring/Alka.SwaggerHelper/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/alkaforsikring/Alka.SwaggerHelper</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/alkaforsikring/Alka.SwaggerHelper/pr/init/alka_logo.ico</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/alkaforsikring/Alka.SwaggerHelper/master/alka_logo.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Helper classes for swagger/swashbuckle</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
