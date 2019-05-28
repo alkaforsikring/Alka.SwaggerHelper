@@ -6,7 +6,7 @@
     <title>Alka.SwaggerHelper</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://raw.githubusercontent.com/alkaforsikring/Alka.SwaggerHelper/master/LICENSE</licenseUrl>
+	<license type="expression">Apache-2.0</license>
     <projectUrl>https://github.com/alkaforsikring/Alka.SwaggerHelper</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/alkaforsikring/Alka.SwaggerHelper/master/alka_logo.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
