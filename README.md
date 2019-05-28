@@ -9,9 +9,12 @@ To install this package use
 ## SwaggerDefaultValues
 
 This functionality enables you to 
-* document arguments
-* provide default values to the swagger ui
+* Document arguments
+* Provide default values to the swagger ui
 
+Further more, the framework supports
+* Multiversioning using `Microsoft.AspNet.WebApi.Versioning.ApiExplorer` 
+* Validation of parameter specifications
 
 ### 1. Getting started
 
