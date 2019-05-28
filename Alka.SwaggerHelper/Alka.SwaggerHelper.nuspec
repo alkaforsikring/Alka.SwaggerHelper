@@ -11,8 +11,8 @@
     <iconUrl>https://raw.githubusercontent.com/alkaforsikring/Alka.SwaggerHelper/master/alka_logo.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Helper classes for swagger/swashbuckle</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>Removed logo from the distribution.</releaseNotes>
     <copyright>Copyright 2019</copyright>
-    <tags>swagger swashbuckle</tags>
+    <tags>swagger swashbuckle webapi</tags>
   </metadata>
 </package>
