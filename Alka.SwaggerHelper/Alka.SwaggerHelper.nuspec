@@ -15,7 +15,4 @@
     <copyright>Copyright 2019</copyright>
     <tags>swagger swashbuckle</tags>
   </metadata>
-  <files>
-      <file src="**\*.cs" target="src" />
-  </files>
 </package>
